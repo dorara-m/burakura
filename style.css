@@ -8,6 +8,9 @@
   border: 1px solid #444;
   margin: 30px auto;
   cursor: pointer;
+  background: #444;
+  color: #fff;
+  font-weight: bold;
 }
 
 .ballon {
